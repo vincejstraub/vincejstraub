@@ -8,7 +8,7 @@ I'm a graduate research assistant, currently working with spatial data.
 
 ### Research interests
 
-I’m currently looking to for PhD programs that use computational methods to study one or more of the following topics: collective intelligence; gender inequality, sociogenomics, and demography; digital ethics; creativity and artificial intelligence.
+I’m currently looking for PhD programs that use computational methods to study one or more of the following topics: collective intelligence; gender inequality, sociogenomics, and demography; digital ethics; creativity and artificial intelligence. Feel free to reach out to me :) 
 
 <!--
 ### High-throughput Animal Tracking Data
