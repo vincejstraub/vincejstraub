@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub page 
 
 I'm a graduate research assistant, currently I'm working with spatial data at the [Science of Intelligence](https://www.scienceofintelligence.de/) cluster.
 
@@ -10,8 +10,16 @@ I'm a graduate research assistant, currently I'm working with spatial data at th
 
 I’m currently looking for PhD programs that use computational methods to study one or more of the following topics: collective intelligence; gender inequality, sociogenomics, and demography; digital ethics; creativity and artificial intelligence. Feel free to reach out to me with info!
 
-
 <!--
+
+### Organization 
+
+My repositories are organized as follows: 
+
+* article-name-name
+* artwork-name-name
+* tools-name-name 
+
 ### Recent projects
 
 
