@@ -6,10 +6,6 @@ I'm a graduate research assistant, currently I'm working with spatial data at th
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/vincejstraub/) 
 [![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](https://twitter.com/vincejstraub)
 
-### Interests
-
-I’m currently looking for PhD programs that use computational methods to study one or more of the following topics: collective intelligence; gender inequality, sociogenomics, and demography; digital ethics; creativity and artificial intelligence. Feel free to reach out to me with info!
-
 <!--
 
 ### Organization 
