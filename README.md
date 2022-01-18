@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 
 
-I'm a Research Assistant interested in social data science, conceptual art & more, currently I'm working with spatial data at the [Science of Intelligence](https://www.scienceofintelligence.de/) cluster.
+I'm a social data scientist, currently I'm working with spatial data at the [Science of Intelligence](https://www.scienceofintelligence.de/) cluster.
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](http://orcid.org/0000-0003-3393-6027)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/vincejstraub/) 
