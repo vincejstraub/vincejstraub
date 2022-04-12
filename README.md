@@ -3,7 +3,6 @@
 I'm a research data scientist, currently I'm working with spatial data at the [Science of Intelligence](https://www.scienceofintelligence.de/) cluster.
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](http://orcid.org/0000-0003-3393-6027)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/vincejstraub/) 
 [![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](https://twitter.com/vincejstraub)
 
 <!--
