@@ -3,7 +3,7 @@
 I'm a researcher, currently I'm working at the Alan Turing Institue.
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](http://orcid.org/0000-0003-3393-6027)
-[![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](https://twitter.com/vincejstraub)
+[![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](https://twitter.com/vincentjstraub)
 
 <!--
 
