@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 
 
-Researcher at the University of Oxford.
+Researcher at the University of Oxford in the Nuffield Department of Population Health.
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](http://orcid.org/0000-0003-3393-6027)
 
