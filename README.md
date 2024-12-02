@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 
 
-Researcher at the University of Oxford in the Nuffield Department of Population Health.
+I am a researcher at the University of Oxford in the Nuffield Department of Population Health. My repositories contain code and documentation for academic papers, algorithmic artworks, and Python tutorials.
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](http://orcid.org/0000-0003-3393-6027)
 
