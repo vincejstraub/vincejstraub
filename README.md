@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 
 
-I am a researcher at the University of Oxford. My repositories contain code and documentation for academic papers, Python apps, algorithmic artworks, and data science tutorials. 
+I am a researcher at the University of Oxford. My repositories contain code and documentation for academic papers, toy Python apps, algorithmic artworks, and data science tutorials. 
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](http://orcid.org/0000-0003-3393-6027)
 
